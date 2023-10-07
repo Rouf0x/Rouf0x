@@ -73,7 +73,7 @@
 
 ###
 
-<h4 align="left">French: 100%<br><br>English: 80-90%<br><br>German: 35-40%<br><br>Italian: 5-15%</h4>
+<h4 align="left">French: 100%<br><br>English: 75-85%<br><br>German: 35-40%<br><br>Italian: 5-15%</h4>
 
 ###
 
