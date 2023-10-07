@@ -49,7 +49,7 @@
 ###
 
 <div align="center">
-  <a href="https://twitter.com/Roufoxxx" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=roufox.contact@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
   <a href="https://discordapp.com/users/790712104058617876" target="_blank">
@@ -74,5 +74,11 @@
 ###
 
 <h4 align="left">French: 100%<br><br>English: 80-90%<br><br>German: 35-40%<br><br>Italian: 5-15%</h4>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rouf0x.Rouf0x&left_text=Profile views"  />
+</div>
 
 ###
