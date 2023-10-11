@@ -6,8 +6,6 @@
 
 ###
 
-<br clear="both">
-
 <h4 align="left">- 💻 Learning Java, C# and C++<br><br>- 🛰️ Ask me about anything!!</h4>
 
 ###
