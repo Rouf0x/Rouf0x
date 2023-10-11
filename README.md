@@ -6,6 +6,8 @@
 
 ###
 
+<br clear="both">
+
 <h4 align="left">- 💻 Learning Java, C# and C++<br><br>- 🛰️ Ask me about anything!!</h4>
 
 ###
@@ -42,7 +44,7 @@
 
 ###
 
-<h4 align="left">Discord username: Roufox<br><br>Email: roufox.contact@gmail.com<br><br>Youtube: https://www.youtube.com/channel/UCuMynxoZzGwYLBgXB2Jk3DQ<br><br>Twitter: https://twitter.com/Roufoxxx</h4>
+<h4 align="left">🔵 Discord username: Roufox<br><br>✉️ Email: roufox.contact@gmail.com<br><br>▶️ Youtube: https://www.youtube.com/channel/UCuMynxoZzGwYLBgXB2Jk3DQ<br><br>🐥Twitter: https://twitter.com/Roufoxxx</h4>
 
 ###
 
@@ -73,3 +75,10 @@
 
 <h4 align="left">French: 100%<br><br>English: 75-85%<br><br>German: 35-40%<br><br>Italian: 5-15%</h4>
 
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Rouf0x.Rouf0x&left_text=Profile views"  />
+</div>
+
+###
