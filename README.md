@@ -42,7 +42,7 @@
 
 ###
 
-<h4 align="left">🔵 Discord username: Roufox<br><br>✉️ Email: roufox.contact@gmail.com<br><br>▶️ Youtube: https://www.youtube.com/channel/UCuMynxoZzGwYLBgXB2Jk3DQ<br><br>🐥Twitter: https://twitter.com/Roufoxxx</h4>
+<h4 align="left">Discord username: Roufox<br><br>Email: roufox.contact@gmail.com<br><br>Youtube: https://www.youtube.com/channel/UCuMynxoZzGwYLBgXB2Jk3DQ<br><br>Twitter: https://twitter.com/Roufoxxx</h4>
 
 ###
 
