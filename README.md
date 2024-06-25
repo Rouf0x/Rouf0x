@@ -44,7 +44,7 @@
 
 ###
 
-<h3 align="center">🔗| Links</h3>
+<h3 align="center">📊| Stats</h3>
 
 ###
 
